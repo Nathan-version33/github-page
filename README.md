@@ -8,6 +8,6 @@ Abaixo estará informações sobre o portfólio.
 
 ## Objetivos
 
-* Aprofundamento de meus conhecimentos já adquiridos sobre **<u>JavaScript, Html, CSS e SQL.</u>**
+* Aprofundamento de meus conhecimentos já adquiridos sobre <u>**JavaScript, Html, CSS e SQL.**</u>
 
 * Aprendizado de novas linguagens e entrada rápida no mercado de trabalho.
